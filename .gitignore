@@ -10,6 +10,7 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
+*.sln.docstates
 *.suo
 *.tmp
 *.user
@@ -17,7 +18,8 @@ ExportedObj/
 *.pidb
 *.booproj
 *.svd
-
+*.DS_Store
+Thumbs.db
 
 # Unity3D generated meta files
 *.pidb.meta
